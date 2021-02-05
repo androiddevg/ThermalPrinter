@@ -1,10 +1,8 @@
-#ThermalPrinter
- demo to pit pos receipt via blutooth
+#ThermalPrinter-print pos receipt via blutooth
 
 // call Init() to find available pos devices and connect
-  Init()
+   Init()
 
 
 // To print
-
-  receiptPrintPosReceipt.printPOSReceipt(MainActivity.this);
+   receiptPrintPosReceipt.printPOSReceipt(MainActivity.this);
