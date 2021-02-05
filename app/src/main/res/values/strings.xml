@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ThermalPrinter</string>
+    <string name="scanning">Finding...</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="no_pos">No POS is connected</string>
+    <string name="paired_pos_devices">Paired POS Devices</string>
+    <string name="other_pos_devices">Other Available POS Devices</string>
+    <string name="scan">Search for devices</string>
+    <string name="connect_btn">Connect</string>
+    <string name="print_receipt_btn">Print POS Receipt</string>
+    <string name="option_btn">Print Option</string>
+    <string name="bt_inquiry_btn">Inquiry Status</string>
+    <string name="quit_btn">Quit</string>
+    <string name="title_connecting">Connecting to a POS device...</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="bt_not_on_leaving">Bluetooth is not enabled</string>
+    <string name="print_line">"-------------------"  </string>
+    <string name="title">Re-connect POS Device</string>
+    <string name="message">Would you like to re-connect with a bluetooth printer?</string>
+    <string name="btn_positive">Yes</string>
+    <string name="btn_negative">No</string>
+</resources>
