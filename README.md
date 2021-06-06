@@ -6,3 +6,4 @@
 
 // To print
    receiptPrintPosReceipt.printPOSReceipt(MainActivity.this);
+<img src="https://github.com/AndroidDevG/ThermalPrinter/blob/master/pos%20receipt%20.jpg" width="250px"> 
